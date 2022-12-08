@@ -1,4 +1,4 @@
-### About Me
+<img src="https://img.shields.io/badge/About%20Me-orange?style=for-the-badge&color=9370DB" />
 
 - :telescope: I am a Software Engineer working with both Backend and Frontend web services.
 
@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES-orange?style=for-the-badge&color=00796B" /></a>
+<img src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES-orange?style=for-the-badge&color=00796B" />
 
 - C++
 - Python

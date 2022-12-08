@@ -1,4 +1,4 @@
-### About Me :
+### About Me
 
 - :telescope: I am a Software Engineer working with both Backend and Frontend web services.
 

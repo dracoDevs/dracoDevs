@@ -26,7 +26,7 @@
 
 ---
 
-### Frameworks
+<img src="https://img.shields.io/badge/FRAMEWORKS-orange?style=for-the-badge&color=673AB7" />
 
 - Flask
 - Django

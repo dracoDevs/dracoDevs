@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/About%20Me-orange?style=for-the-badge&color=0000CD" />
+<img src="https://img.shields.io/badge/About%20Me-orange?style=for-the-badge&color=6577B3" />
 
 - :telescope: I am a Software Engineer working with both Backend and Frontend web services.
 

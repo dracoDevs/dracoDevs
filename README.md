@@ -24,3 +24,9 @@
 - Fastify
 - MongoDB
 - PostgreSQL
+
+---
+
+Date       | Number of Commits
+-----------|------------------
+$(date +%m/%d/%Y) | $(git rev-list --all --since=$(date +%Y-%m-%d) --until=$(date +%Y-%m-%d) --count)

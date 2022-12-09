@@ -24,3 +24,11 @@
 - Fastify
 - MongoDB
 - PostgreSQL
+
+---
+
+<img src="https://img.shields.io/badge/SOCIALS-orange?style=for-the-badge&color=673AB7" />
+
+- Twitter <img src="https://img.shields.io/twitter/follow/dracoDevs?style=social" />
+
+---

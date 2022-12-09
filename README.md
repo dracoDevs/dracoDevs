@@ -1,3 +1,4 @@
+---
 <img src="https://img.shields.io/badge/About%20Me-orange?style=for-the-badge&color=6577B3" />
 
 - :telescope: I am a Software Engineer working with both Backend and Frontend web services.
@@ -26,7 +27,3 @@
 - PostgreSQL
 
 ---
-
-Date       | Number of Commits
------------|------------------
-$(date +%m/%d/%Y) | $(git rev-list --all --since=$(date +%Y-%m-%d) --until=$(date +%Y-%m-%d) --count)

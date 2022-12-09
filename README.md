@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/About%20Me-orange?style=for-the-badge&color=6577B3" />
+<img src="https://img.shields.io/badge/About%20Me-orange?style=for-the-badge&color=94D169" />
 
 - :telescope: I am a Software Engineer working with both Backend and Frontend web services.
 
@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES-orange?style=for-the-badge&color=00796B" />
+<img src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES-orange?style=for-the-badge&color=69D1BD" />
 
 - C++
 - Python
@@ -15,7 +15,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/FRAMEWORKS-orange?style=for-the-badge&color=673AB7" />
+<img src="https://img.shields.io/badge/FRAMEWORKS-orange?style=for-the-badge&color=9569D1" />
 
 - Flask
 - Django
@@ -27,8 +27,8 @@
 
 ---
 
-<img src="https://img.shields.io/badge/SOCIALS-orange?style=for-the-badge&color=673AB7" />
+<img src="https://img.shields.io/badge/SOCIALS-orange?style=for-the-badge&color=C04848" />
 
-- Twitter <img src="https://img.shields.io/twitter/follow/dracoDevs?style=social" />
+- <img src="https://img.shields.io/twitter/follow/dracoDevs?style=social" />
 
 ---

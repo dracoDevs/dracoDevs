@@ -30,3 +30,4 @@
 <img src="https://img.shields.io/badge/SOCIALS-orange?style=for-the-badge&color=C04848" />
 
 <img src="https://img.shields.io/twitter/follow/dracoDevs?style=social" />
+<img src="https://dcbadge.vercel.app/api/shield/739240683642159236" />

@@ -27,4 +27,4 @@
 
 ---
 
-<img src="https://img.shields.io/badge/dracoDevs-%231DA1F2.svg?style=&logo=twitter&logoColor=white" /> <img src="https://img.shields.io/badge/Draco%230069-%235865F2.svg?style=&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/dracoDevs-%231DA1F2.svg?style=&logo=twitter&logoColor=white" href="https://www.Twitter.com/dracoDevs" /> <img src="https://img.shields.io/badge/Draco%230069-%235865F2.svg?style=&logo=discord&logoColor=white" />

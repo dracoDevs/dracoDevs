@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/FRAMEWORKS-orange?style=for-the-badge&color=8F43EE" />
 
 - Flask
+- React
 - Django
 - NestJS
 - Express

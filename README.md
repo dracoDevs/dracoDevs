@@ -20,6 +20,7 @@
 - Flask
 - React
 - Django
+- NextJS
 - NestJS
 - Express
 - Fastify

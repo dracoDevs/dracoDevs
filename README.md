@@ -8,10 +8,11 @@
 
 <img src="https://img.shields.io/badge/PROGRAMMING%20LANGUAGES-orange?style=for-the-badge&color=413543" />
 
-- C++
+- Java
 - Python
 - Golang
 - JavaScript/TypeScript
+- Other languages on a project by project basis...
 
 ---
 
@@ -26,6 +27,7 @@
 - Fastify
 - MongoDB
 - PostgreSQL
+- And more...
 
 ---
 

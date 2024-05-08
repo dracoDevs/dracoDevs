@@ -20,6 +20,7 @@
 
 - Flask
 - React
+- Docker
 - Django
 - NextJS
 - NestJS
@@ -27,7 +28,7 @@
 - Fastify
 - MongoDB
 - PostgreSQL
-- And more...
+- And more.
 
 ---
 

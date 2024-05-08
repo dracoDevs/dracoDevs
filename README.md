@@ -12,7 +12,7 @@
 - Python
 - Golang
 - JavaScript/TypeScript
-- Other languages on a project by project basis...
+- Other languages on a project by project basis.
 
 ---
 
